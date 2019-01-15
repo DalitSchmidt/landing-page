@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="icon_paper" class="cls-1" d="M30,0H2V48H42V12Zm0,6,6,6H30ZM6,44V4H26V16H38V44Z" transform="translate(-2)"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66 66">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #6f1e51;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #6f1e51;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_arrow" transform="translate(-1492 -2909)">
+    <g id="Rectangle_27" data-name="Rectangle 27" class="cls-1" transform="translate(1492 2909)">
+      <rect class="cls-3" width="66" height="66"/>
+      <rect class="cls-4" x="1" y="1" width="64" height="64"/>
+    </g>
+    <path id="arrow-64_1_" class="cls-2" d="M12.2,0,15,2.8,5.7,12,15,21.2,12.2,24,0,12Z" transform="translate(1533 2954) rotate(180)"/>
+  </g>
+</svg>
